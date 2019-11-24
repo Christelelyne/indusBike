@@ -27,7 +27,7 @@ Here are the different variables of our case:
  
  2.  Command to be executed on Spark cluster
  
-      **spark-submit --master spark://<Spark_cluster>:7077 --executor-memory 4G CityBike.py **
+      **spark-submit --master spark://<Spark_cluster>:7077 --executor-memory 4G CityBike.py**
       
       *<Spark_Cluster>: DNS or IP address  of used spark cluster*
       
