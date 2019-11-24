@@ -23,7 +23,7 @@ Here are the different variables of our case:
   
   
  ## LAUNCH THE JOB
- 1.  One should get the dustributed archive citybike_Rentsch-0.0.1-py3.7.egg which contains all the needed folders and shared 
+ 1.  One should get the dustributed archive **citybike_Rentsch-0.0.1-py3.7.egg** which contains all the needed folders and shared 
  
  2.  Command to be executed on Spark cluster
  
